@@ -1,0 +1,7 @@
+{
+  "name": "level4",
+  "version": "0.1.0",
+  "dependencies": {
+    "level5": "file:level5"
+  }
+}
